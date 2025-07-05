@@ -28,7 +28,7 @@ module REGBANK(input CJR, Et, Ip, Is, Ds, Clk, Clr, [4:0] Rs1, Rs2, [15:0] Win, 
     always @ (posedge (Clk || CJR) or posedge Clr)
         begin
             if(Clr) begin
-                B<=0; C<=0; D<=0; E<=0; H<=8'h08; L<=8'h08; W<=0; Z<=0;
+                B<=0; C<=0; D<=0; E<=0; H<=0; L<=0; W<=0; Z<=0;
                 SP<=16'h0ff0; PC<=0;
             end else begin
                 if(Ip) 
