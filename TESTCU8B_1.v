@@ -30,20 +30,3 @@ module TESTCU8B_1;
         end
     initial #1000 $finish;                   
 endmodule
-
-
-//module testcountdiv2;
-//// count_div(input pin_clk, rst, CNTRPIN, [15:0] HEXIN, output [7:0] CATHODES, [3:0] ANODES);
-//    reg Clk, rst, CNTRPIN; reg [15:0] HEXIN;
-//    wire diffClk1, diffClr; wire [7:0] CATHODES; wire [3:0] ANODES;
-//    count_div CD(Clk, rst, CNTRPIN, HEXIN, diffClk1, diffClr, CATHODES, ANODES);
-//    initial Clk = 0;
-//    always Clk = #5 ~Clk;
-//    initial
-//        begin
-//            HEXIN = 16'hxxxx; #20000000; 
-//            HEXIN = 16'h0500; CNTRPIN = 1; #2000000;
-//            HEXIN = 16'hxxxx; CNTRPIN = 0;
-//        end
-//    initial #1000 $finish;   
-//endmodule
