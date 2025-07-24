@@ -41,9 +41,63 @@
 - `ADDROM.data`, `CONTROM.data`, `RAM.data` – ROM and RAM initialization files
 - `TESTCU8B_1.v` – Sample testbench using a 10-second timer in assembly
 
+
+
 ---
 
-## 🧪 Example Program: 10-Second Resettable Timer
+## 📦 Setting Up in Vivado 2024.2
+
+To use the CU8B-I project in Vivado:
+
+### 1️⃣ Create a New Project
+
+1. Open **Vivado 2024.2**
+2. Select `Create New Project`
+3. Name the project `CU8B_1`
+4. Choose **RTL Project** → Enable `Do not specify sources at this time`
+5. Click **Next** and select your target device or board
+
+---
+
+### 2️⃣ Add Design Sources
+
+1. Right-click on **Design Sources** → `Add Sources`
+2. Select `Add or Create Design Sources`
+3. Add the following Verilog files:
+   - `CU8B_1.v` (top-level module)
+   - `DATAPATH.v`
+   - `REGBANK.v`
+   - `MEMAR.v`
+   - `ALU.v`
+   - `IR.v`, `IP1.v`, `IP2.v`, `OP3.v`, `OP4.v`
+   - `HEXENCODER.v`, `ADDROM.v`, `CONTROM.v`, `PRESCNTR.v`, `CLKCTR.v`
+
+---
+
+### 3️⃣ Add Simulation Sources
+
+1. Right-click on **Simulation Sources** → `Add Sources`
+2. Select `Add or Create Simulation Sources`
+3. Add:
+   - `TESTCU8B_1.v` (provided testbench)
+
+---
+
+### 4️⃣ Add Memory Initialization Files
+
+1. Place the following `.data` files in your project directory:
+   - `RAM.data`
+   - `ADDROM.data`
+   - `CONTROM.data`
+2. Edit the Verilog modules to ensure correct relative path if needed:
+   ```verilog
+   initial $readmemb("RAM.data", MEM);
+   initial $readmemb("ADDROM.data", ADDROM);
+   initial $readmemb("CONTROM.data", CONTROM);
+   
+---
+
+## 🧪 Example Program: 10-Second Resettable Timer (Program in Assembly)
 
 ```assembly
 MVI B,0x0b
