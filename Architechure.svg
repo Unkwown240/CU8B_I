@@ -1,0 +1,255 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1097" height="1345" viewBox="0 0 1097 1345">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1097" height="1345"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1097" height="1345" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(60.432 96.74)">
+      <g id="Group_4" data-name="Group 4" transform="translate(207.724 150.3)">
+        <g id="Rectangle_1" data-name="Rectangle 1" fill="#fff" stroke="#000" stroke-width="4">
+          <rect width="189.733" height="225" stroke="none"/>
+          <rect x="2" y="2" width="185.733" height="221" fill="none"/>
+        </g>
+        <g id="Group_24" data-name="Group 24" transform="translate(32.896 27)">
+          <g id="Rectangle_2" data-name="Rectangle 2" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="123.942" height="72" stroke="none"/>
+            <rect x="2" y="2" width="119.942" height="68" fill="none"/>
+          </g>
+          <text id="IP_:_1" data-name="IP : 1" transform="translate(18 46.1)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10"><tspan x="0" y="0">IP : 1</tspan></text>
+        </g>
+        <g id="Group_23" data-name="Group 23" transform="translate(32.896 126)">
+          <g id="Rectangle_3" data-name="Rectangle 3" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="123.942" height="72" stroke="none"/>
+            <rect x="2" y="2" width="119.942" height="68" fill="none"/>
+          </g>
+          <text id="IP_:_2" data-name="IP : 2" transform="translate(18 47.1)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10"><tspan x="0" y="0">IP : 2</tspan></text>
+        </g>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(123.633 465.074)">
+        <g id="Group_16" data-name="Group 16">
+          <g id="Rectangle_2-2" data-name="Rectangle 2" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="243.9" height="75.6" stroke="none"/>
+            <rect x="2" y="2" width="239.9" height="71.6" fill="none"/>
+          </g>
+          <text id="MAR" transform="translate(76.45 51.3)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="0" y="0">MAR</tspan></text>
+        </g>
+        <g id="Group_15" data-name="Group 15" transform="translate(0 252.9)">
+          <g id="Rectangle_3-2" data-name="Rectangle 3" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="243.9" height="75.6" stroke="none"/>
+            <rect x="2" y="2" width="239.9" height="71.6" fill="none"/>
+          </g>
+          <text id="MDR" transform="translate(78.95 51.3)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="0" y="0">MDR</tspan></text>
+        </g>
+        <g id="Group_14" data-name="Group 14" transform="translate(0 72)">
+          <g id="Rectangle_10" data-name="Rectangle 10" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="243.9" height="184.5" stroke="none"/>
+            <rect x="2" y="2" width="239.9" height="180.5" fill="none"/>
+          </g>
+          <text id="RAM" transform="translate(76.45 83.25)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="0" y="0">RAM</tspan></text>
+          <text id="_64K_x_8_" data-name="(64K x 8)" transform="translate(33.45 127.5)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="0" y="0">(64K x 8)</tspan></text>
+        </g>
+      </g>
+      <g id="Group_27" data-name="Group 27" transform="translate(140.856 858.249)">
+        <g id="Rectangle_10-2" data-name="Rectangle 10" fill="#fff" stroke="#000" stroke-width="4">
+          <rect width="252" height="225" stroke="none"/>
+          <rect x="2" y="2" width="248" height="221" fill="none"/>
+        </g>
+        <g id="Group_47" data-name="Group 47" transform="translate(18.9 102.601)">
+          <text id="_" data-name="+" transform="translate(107.1 -29.601)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="-43.872" y="0">IR +</tspan></text>
+          <text id="_2" data-name="+" transform="translate(107.1 18.399)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="-100.117" y="0">DECODER</tspan></text>
+          <text id="_3" data-name="+" transform="translate(107.1 66.399)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="-63.63" y="0">+ C.U.</tspan></text>
+        </g>
+      </g>
+      <g id="Group_7" data-name="Group 7" transform="translate(561.246 436.596)">
+        <g id="Group_20" data-name="Group 20" transform="translate(262.8 25.2)">
+          <g id="Rectangle_3-3" data-name="Rectangle 3" fill="none" stroke="#000" stroke-width="4">
+            <rect width="48.566" height="310.5" stroke="none"/>
+            <rect x="2" y="2" width="44.566" height="306.5" fill="none"/>
+          </g>
+          <text id="REG_SELECT" data-name="REG SELECT" transform="translate(35.783 155.25) rotate(-90)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-121.923" y="0">REG SELECT</tspan></text>
+        </g>
+        <g id="Group_12" data-name="Group 12" transform="translate(0 244.8)">
+          <g id="Rectangle_3-4" data-name="Rectangle 3" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="266.4" height="63" stroke="none"/>
+            <rect x="2" y="2" width="262.4" height="59" fill="none"/>
+          </g>
+          <text id="SP" transform="translate(133.6 43.6)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-22.487" y="0">SP</tspan></text>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(0 183.6)">
+          <g id="Rectangle_2-3" data-name="Rectangle 2" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="W" transform="translate(71.85 41.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-17.972" y="0">W</tspan></text>
+          <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(131.4)" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="Z" transform="translate(199.1 40.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-10.693" y="0">Z</tspan></text>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(0 304.2)">
+          <g id="Rectangle_3-5" data-name="Rectangle 3" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="266.4" height="63" stroke="none"/>
+            <rect x="2" y="2" width="262.4" height="59" fill="none"/>
+          </g>
+          <text id="PC" transform="translate(134.8 43.6)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-25.41" y="0">PC</tspan></text>
+        </g>
+        <g id="Group_17" data-name="Group 17" transform="translate(0 122.4)">
+          <g id="Rectangle_2-4" data-name="Rectangle 2" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="H" transform="translate(69.18 41.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-13.125" y="0">H</tspan></text>
+          <g id="Rectangle_11-2" data-name="Rectangle 11" transform="translate(131.4)" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="L" transform="translate(199.1 40.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-10.938" y="0">L</tspan></text>
+        </g>
+        <g id="Group_18" data-name="Group 18" transform="translate(0 61.2)">
+          <g id="Rectangle_2-5" data-name="Rectangle 2" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="D" transform="translate(70.049 41.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-13.352" y="0">D</tspan></text>
+          <g id="Rectangle_11-3" data-name="Rectangle 11" transform="translate(131.4)" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="E" transform="translate(200.1 41.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-11.9" y="0">E</tspan></text>
+        </g>
+        <g id="Group_19" data-name="Group 19">
+          <g id="Rectangle_2-6" data-name="Rectangle 2" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="B" transform="translate(67.226 41.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-12.39" y="0">B</tspan></text>
+          <g id="Rectangle_11-4" data-name="Rectangle 11" transform="translate(131.4)" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="135" height="64.8" stroke="none"/>
+            <rect x="2" y="2" width="131" height="60.8" fill="none"/>
+          </g>
+          <text id="C" transform="translate(198.9 41.8)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="-12.635" y="0">C</tspan></text>
+        </g>
+      </g>
+      <g id="Group_21" data-name="Group 21" transform="translate(563.946 855.549)">
+        <g id="Group_22" data-name="Group 22" transform="translate(240.6 23.33)">
+          <g id="Rectangle_3-6" data-name="Rectangle 3" fill="none" stroke="#000" stroke-width="4">
+            <rect width="46.576" height="183.74" stroke="none"/>
+            <rect x="2" y="2" width="42.576" height="179.74" fill="none"/>
+          </g>
+          <text id="FLAGS" transform="translate(33.788 154.37) rotate(-90)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="0" y="0">FLAGS</tspan></text>
+        </g>
+        <g id="Rectangle_1-2" data-name="Rectangle 1" fill="#fff" stroke="#000" stroke-width="4">
+          <rect width="244.6" height="230.4" stroke="none"/>
+          <rect x="2" y="2" width="240.6" height="226.4" fill="none"/>
+        </g>
+        <g id="Group_38" data-name="Group 38" transform="translate(0 131.4)">
+          <g id="Rectangle_3-7" data-name="Rectangle 3" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="144.741" height="99" rx="3" stroke="none"/>
+            <rect x="2" y="2" width="140.741" height="95" rx="1" fill="none"/>
+          </g>
+          <text id="A" transform="translate(46.371 61)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.1em"><tspan x="0" y="0">A</tspan></text>
+        </g>
+        <text id="ALU" transform="translate(83.3 84.276)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="0" y="0">ALU</tspan></text>
+        <g id="Group_39" data-name="Group 39" transform="translate(85.773 131.4)">
+          <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(30.049)" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="128.827" height="99" stroke="none"/>
+            <rect x="2" y="2" width="124.827" height="95" fill="none"/>
+          </g>
+          <text id="TMP" transform="translate(51.963 61)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="0" y="0">TMP</tspan></text>
+        </g>
+      </g>
+      <g id="Group_25" data-name="Group 25" transform="translate(540.383 150.3)">
+        <g id="Rectangle_1-3" data-name="Rectangle 1" transform="translate(0.3)" fill="#fff" stroke="#000" stroke-width="4">
+          <rect width="201.746" height="225" stroke="none"/>
+          <rect x="2" y="2" width="197.746" height="221" fill="none"/>
+        </g>
+        <g id="Group_23-2" data-name="Group 23" transform="translate(34.172 126)">
+          <g id="Rectangle_3-8" data-name="Rectangle 3" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="134.002" height="72" stroke="none"/>
+            <rect x="2" y="2" width="130.002" height="68" fill="none"/>
+          </g>
+          <text id="OP_:_4" data-name="OP : 4" transform="translate(16.001 47.5)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10"><tspan x="0" y="0">OP : 4</tspan></text>
+        </g>
+        <g id="Group_24-2" data-name="Group 24" transform="translate(34.172 27)">
+          <g id="Rectangle_2-7" data-name="Rectangle 2" fill="#fff" stroke="#000" stroke-width="4">
+            <rect width="134.002" height="72" stroke="none"/>
+            <rect x="2" y="2" width="130.002" height="68" fill="none"/>
+          </g>
+          <text id="OP_:_3" data-name="OP : 3" transform="translate(16.001 44.5)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10"><tspan x="0" y="0">OP : 3</tspan></text>
+        </g>
+      </g>
+      <g id="Group_28" data-name="Group 28" transform="translate(461.89 165.7)">
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="10" height="900"/>
+      </g>
+      <g id="Group_29" data-name="Group 29" transform="translate(397.457 260.439)">
+        <rect id="Rectangle_8" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+        <path id="Polygon_3" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(69.033) rotate(90)"/>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(461.89 988.749) rotate(180)">
+        <rect id="Rectangle_8-2" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+        <path id="Polygon_3-2" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(68.532) rotate(90)"/>
+      </g>
+      <g id="Group_41" data-name="Group 41" transform="translate(146.524 290)">
+        <rect id="Rectangle_8-3" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+        <path id="Polygon_3-3" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(61.2) rotate(90)"/>
+      </g>
+      <g id="Group_43" data-name="Group 43" transform="translate(742.429 292.5)">
+        <rect id="Rectangle_8-4" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+        <path id="Polygon_3-4" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(61.2) rotate(90)"/>
+      </g>
+      <g id="Group_44" data-name="Group 44" transform="translate(177.124 95.85)">
+        <line id="Line_1" data-name="Line 1" x1="25.2" transform="translate(0 136.172)" fill="none" stroke="#000" stroke-width="3" stroke-dasharray="5 7"/>
+        <line id="Line_2" data-name="Line 2" y2="136.172" fill="none" stroke="#000" stroke-width="3" stroke-dasharray="5 7"/>
+        <line id="Line_3" data-name="Line 3" x1="595.906" fill="none" stroke="#000" stroke-width="3" stroke-dasharray="5 7"/>
+        <line id="Line_4" data-name="Line 4" y1="136.172" transform="translate(595.906)" fill="none" stroke="#000" stroke-width="3" stroke-dasharray="5 7"/>
+        <line id="Line_5" data-name="Line 5" x2="25.2" transform="translate(570.706 136.172)" fill="none" stroke="#000" stroke-width="3" stroke-dasharray="5 7"/>
+      </g>
+      <g id="Group_45" data-name="Group 45" transform="translate(304.856 65.571)">
+        <g id="Rectangle_14" data-name="Rectangle 14" fill="#fff" stroke="#000" stroke-width="3">
+          <rect width="335.824" height="60.558" stroke="none"/>
+          <rect x="1.5" y="1.5" width="332.824" height="57.558" fill="none"/>
+        </g>
+        <text id="HEXADECIMAL_ENCODER" data-name="HEXADECIMAL ENCODER" transform="translate(25.912 40.779)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="0" y="0">HEX ENCODER</tspan></text>
+      </g>
+      <g id="Group_1-2" data-name="Group 1" transform="translate(40.183 -6.089)">
+        <g id="Group_31" data-name="Group 31" transform="translate(394.407 653.413) rotate(180)">
+          <rect id="Rectangle_8-5" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+          <path id="Polygon_3-5" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(67.056 0) rotate(90)"/>
+        </g>
+        <g id="Group_31-2" data-name="Group 31" transform="translate(354.651 617.413)">
+          <rect id="Rectangle_8-6" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+          <path id="Polygon_3-6" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(67.056) rotate(90)"/>
+        </g>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(139.539 -6.089)">
+        <g id="Group_31-3" data-name="Group 31" transform="translate(394.407 653.413) rotate(180)">
+          <rect id="Rectangle_8-7" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+          <path id="Polygon_3-7" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(67.056 0) rotate(90)"/>
+        </g>
+        <g id="Group_31-4" data-name="Group 31" transform="translate(354.651 617.413)">
+          <rect id="Rectangle_8-8" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+          <path id="Polygon_3-8" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(67.056) rotate(90)"/>
+        </g>
+      </g>
+      <g id="Group_29-2" data-name="Group 29" transform="translate(471.89 260.439)">
+        <rect id="Rectangle_8-9" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+        <path id="Polygon_3-9" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(69.033) rotate(90)"/>
+      </g>
+      <g id="Group_3" data-name="Group 3" transform="translate(142.239 335.336)">
+        <g id="Group_31-5" data-name="Group 31" transform="translate(394.407 653.413) rotate(180)">
+          <rect id="Rectangle_8-10" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+          <path id="Polygon_3-10" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(67.056 0) rotate(90)"/>
+        </g>
+        <g id="Group_31-6" data-name="Group 31" transform="translate(354.651 617.413)">
+          <rect id="Rectangle_8-11" data-name="Rectangle 8" width="37.8" height="14.4" transform="translate(0 10.8)"/>
+          <path id="Polygon_3-11" data-name="Polygon 3" d="M18,0,36,31.5H0Z" transform="translate(67.056) rotate(90)"/>
+        </g>
+      </g>
+      <text id="IP_:_2-2" data-name="IP : 2" transform="translate(129.524 326) rotate(-90)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="0" y="0">IN</tspan></text>
+      <text id="IP_:_2-3" data-name="IP : 2" transform="translate(837.63 344.8) rotate(-90)" stroke="#000" stroke-width="1" font-size="35" font-family="CMR10" letter-spacing="0.05em"><tspan x="0" y="0">OUT</tspan></text>
+    </g>
+  </g>
+</svg>
