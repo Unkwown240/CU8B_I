@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="CU8BSVG.svg" alt="CU8B-I Architecture Diagram" width="500px"/>
+  <img src="Architechure.svg" alt="CU8B-I Architecture Diagram" width="500px"/>
 </div>
 
 ## 🔧 Overview
