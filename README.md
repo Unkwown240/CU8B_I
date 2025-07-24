@@ -1,6 +1,10 @@
 # CU8B-I: Custom Microprocessor Architecture
 
-![CU8B-I Architecture Diagram](CU8BSVG.svg)
+
+
+<div align="center">
+  <img src="CU8BSVG.svg" alt="CU8B-I Architecture Diagram" width="500px"/>
+</div>
 
 ## 🔧 Overview
 
