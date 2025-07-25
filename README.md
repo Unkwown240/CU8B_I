@@ -1,4 +1,4 @@
-# CU8B-I: Custom Microprocessor Architecture
+# CU8B-I: Custom 8-Bit Architecture 
 
 
 
